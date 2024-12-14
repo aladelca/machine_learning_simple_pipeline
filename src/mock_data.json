@@ -1,0 +1,15 @@
+[
+  {
+    "PassengerId": 173,
+    "Pclass": 2,
+    "Name": " Villanueva, Sr. Ronaldo",
+    "Sex": "male",
+    "Age": 27.0,
+    "SibSp": 0,
+    "Parch": 0,
+    "Ticket": "347742",
+    "Fare": 20,
+    "Cabin": null,
+    "Embarked": "S"
+  }
+]
